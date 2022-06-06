@@ -49,18 +49,38 @@
   "cartItems": [
     {
       "productId": 1,
-      "count": 3,
-      "id": 1
+      "count": 4,
+      "id": 2
+    },
+    {
+      "productId": 5,
+      "count": 1,
+      "id": 5
+    },
+    {
+      "productId": 6,
+      "count": 1,
+      "id": 6
+    },
+    {
+      "productId": 8,
+      "count": 1,
+      "id": 7
     },
     {
       "productId": 2,
-      "count": 5,
-      "id": 2
+      "count": 1,
+      "id": 8
+    },
+    {
+      "productId": 4,
+      "count": 1,
+      "id": 10
     },
     {
       "productId": 3,
       "count": 1,
-      "id": 3
+      "id": 11
     }
   ]
 }
